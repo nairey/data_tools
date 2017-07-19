@@ -1,0 +1,198 @@
+15|31|Laser - Shoulders|17592186648462
+15|15|Eyebrows Waxing|17592186648472
+90|210|Get Ready to Party|17592186648501
+30|35|Deluxe Manicure|17592186648493
+30|40|Gel Color Manicure|17592186648486
+45|406|Laser - Full Legs - 3 Sessions|17592186648516
+30|70|Laser - Female Brazilian - 3 Sessions|17592186648510
+60|249|Soul Soothing Body Pack|17592186648502
+30|82|Micro + Mild Peel + Vit. C Infusion|17592186648439
+15|75|Laser - Shoulders - 3 Sessions|17592186648511
+15|8|Laser - Underarms|17592186648459
+30|40|Eyelash + Eyebrow Tinting|17592186648485
+75|104|Deluxe Harmonizing Facial (1 hour) + Microdermabrasion (10 mins)|17592186648433
+30|35|Gel Color Buff /Shape|17592186648488
+30|29|Laser - Female Brazilian|17592186648461
+60|89|Deluxe Anti-Oxidant Facial|17592186648428
+30|62|Micro + Enzyme Peel|17592186648437
+15|15|Upper Lip Waxing|17592186648474
+30|49|Full Arms Waxing|17592186648477
+60|89|Deluxe Multi-Active Power Boost Facial|17592186648431
+15|94|Laser - Female Bikini - 3 Sessions|17592186648509
+30|72|Micro + Mild Peel|17592186648438
+30|45|Intensive Brightening Facial (Enzyme Micro Peel)|17592186648424
+45|2000|Downsize Me - 8 Sessions|17592186648499
+30|35|G-String Waxing|17592186648479
+30|25|Downsize Me- Initial Consultation|17592187078296
+30|150|Intensive Peeling To Renew The Skin (Purple Peel)|17592186648427
+30|216|Laser - Full Arms - 3 Sessions|17592186648518
+15|17|Laser - Lip|17592186648455
+45|125|Face Lift (Face)|17592186648450
+30|59|Full Legs Waxing|17592186648481
+60|89|Deluxe Rejuvenating Facial|17592186648430
+60|250|Derma Rolling - Skin Inject (Face)|17592186648441
+30|39|Laser - Full Face|17592186648457
+15|39|Half Arms Waxing|17592186648476
+45|189|Face Lift (Face + Neck)|17592186648453
+30|39|Spray Tanning - Full Body|17592186648497
+75|104|Deluxe Multi-Active Power Boost Facial (1 hour) + Microdermabrasion (10 mins)|17592186648435
+60|99|***Special- Lunch Time Face Lift - ends April 7th|17592187269394
+15|62|Laser - 1/2 Arms|17592186648470
+15|15|Chin Waxing|17592186648473
+15|41|Laser - Chin - 3 Sessions|17592186648503
+30|55|Intensive Refining & Clarifying Facial (Peel Accelerator)|17592186648425
+15|70|Laser - Chest|17592186648463
+45|45|Deluxe Pedicure|17592186648496
+15|132|Laser - 1/2 Back - 3 Sessions|17592186648515
+15|41|Laser - Lip - 3 Sessions|17592186648504
+15|20|Eyebrow Tinting|17592186648483
+45|99|Face Lift (Half Face)|17592186648451
+15|29|Spray Tanning - Half Body|17592186648498
+15|149|Laser - 1/2 Arms - 3 Sessions|17592186648519
+15|55|Laser - 1/2 Back|17592186648466
+30|110|Laser - 1/2 Legs|17592186648468
+15|55|Laser - Stomach|17592186648464
+30|35|Pedicure|17592186648495
+15|17|Laser - Chin|17592186648454
+30|94|Laser - Full Face - 3 Sessions|17592186648506
+60|85|Gel Color Manicure + Pedicure|17592186648489
+45|99|Pigmentation Reduction / Rejuvenation (Face-3/4)|17592186648446
+60|250|Derma Rolling - Skin Inject (Decolletage)|17592186648440
+15|168|Laser - Chest - 3 Sessions|17592186648512
+15|70|Laser - Snail Trail - 3 Sessions|17592186648520
+30|85|Intensive Collagen Repair Treatment (Ageless Peel)|17592186648426
+15|20|Laser - Underarms - 3 Sessions|17592186648508
+15|45|Lower Legs Waxing|17592186648480
+30|20|Manicure (Shape + Paint)|17592186648491
+45|89|Pigmentation Reduction / Rejuvenation (Face-1/2)|17592186648447
+45|99|Face Lift (Neck)|17592186648452
+15|132|Laser - Stomach - 3 Sessions|17592186648513
+30|216|Laser - Full Back - 3 Sessions|17592186648514
+60|250|Derma Rolling - Skin Inject (Neck)|17592186648442
+15|70|Laser - Sides of Face - 3 Sessions|17592186648505
+15|30|Bikini Waxing|17592186648478
+30|15|Gel Color Removal & Care|17592186648490
+45|69|Pigmentation Reduction / Rejuvenation (Face-1/4)|17592186648448
+60|255|Re-invent, Refresh and Renew Pack|17592186648500
+30|52|Micro Express (20 mins)|17592186648436
+30|90|Laser - Full Arms|17592186648469
+60|89|Deluxe Harmonizing Facial|17592186648429
+60|350|Derma Rolling - Skin Inject (Face + Neck + Decolletage)|17592186648444
+15|39|Laser - Female Bikini|17592186648460
+75|104|Deluxe Rejuvenating Facial (1 hour) + Microdermabrasion (10 mins)|17592186648434
+30|50|Gel Color Pedicure|17592186648487
+15|29|Laser - Sides of Face|17592186648456
+45|29|Pigmentation Reduction / Rejuvenation (Nose)|17592186648449
+15|49|Thighs Waxing|17592186648482
+30|25|Pedicure (Shape + Paint)|17592186648494
+15|53|Laser - Neck (Front or Back) - 3 Sessions|17592186648507
+60|350|Derma Rolling - Skin Inject (Stomach)|17592186648443
+30|90|Laser - Full Back|17592186648465
+45|125|Pigmentation Reduction / Rejuvenation (Face-Full)|17592186648445
+45|169|Laser - Full Legs|17592186648467
+15|15|Sides of Face Waxing|17592186648475
+30|264|Laser - 1/2 Legs - 3 Sessions|17592186648517
+30|25|Manicure|17592186648492
+15|29|Laser - Snail Trail|17592186648471
+15|22|Laser - Neck (Front or Back)|17592186648458
+75|104|Deluxe Anti-Oxidant Facial (1 hour) + Microdermabrasion (10 mins)|17592186648432
+30|30|Eyelash Tinting|17592186648484
+15|31|Laser - Shoulders|17592186648462
+15|15|Eyebrows Waxing|17592186648472
+90|210|Get Ready to Party|17592186648501
+30|35|Deluxe Manicure|17592186648493
+30|40|Gel Color Manicure|17592186648486
+45|406|Laser - Full Legs - 3 Sessions|17592186648516
+30|70|Laser - Female Brazilian - 3 Sessions|17592186648510
+60|249|Soul Soothing Body Pack|17592186648502
+30|82|Micro + Mild Peel + Vit. C Infusion|17592186648439
+15|75|Laser - Shoulders - 3 Sessions|17592186648511
+15|8|Laser - Underarms|17592186648459
+30|40|Eyelash + Eyebrow Tinting|17592186648485
+75|104|Deluxe Harmonizing Facial (1 hour) + Microdermabrasion (10 mins)|17592186648433
+30|35|Gel Color Buff /Shape|17592186648488
+30|29|Laser - Female Brazilian|17592186648461
+60|89|Deluxe Anti-Oxidant Facial|17592186648428
+30|62|Micro + Enzyme Peel|17592186648437
+15|15|Upper Lip Waxing|17592186648474
+30|49|Full Arms Waxing|17592186648477
+60|89|Deluxe Multi-Active Power Boost Facial|17592186648431
+15|94|Laser - Female Bikini - 3 Sessions|17592186648509
+30|72|Micro + Mild Peel|17592186648438
+30|45|Intensive Brightening Facial (Enzyme Micro Peel)|17592186648424
+45|2000|Downsize Me - 8 Sessions|17592186648499
+30|35|G-String Waxing|17592186648479
+30|25|Downsize Me- Initial Consultation|17592187078296
+30|150|Intensive Peeling To Renew The Skin (Purple Peel)|17592186648427
+30|216|Laser - Full Arms - 3 Sessions|17592186648518
+15|17|Laser - Lip|17592186648455
+45|125|Face Lift (Face)|17592186648450
+30|59|Full Legs Waxing|17592186648481
+60|89|Deluxe Rejuvenating Facial|17592186648430
+60|250|Derma Rolling - Skin Inject (Face)|17592186648441
+30|39|Laser - Full Face|17592186648457
+15|39|Half Arms Waxing|17592186648476
+45|189|Face Lift (Face + Neck)|17592186648453
+30|39|Spray Tanning - Full Body|17592186648497
+75|104|Deluxe Multi-Active Power Boost Facial (1 hour) + Microdermabrasion (10 mins)|17592186648435
+60|99|***Special- Lunch Time Face Lift - ends April 7th|17592187269394
+15|62|Laser - 1/2 Arms|17592186648470
+15|15|Chin Waxing|17592186648473
+15|41|Laser - Chin - 3 Sessions|17592186648503
+30|55|Intensive Refining & Clarifying Facial (Peel Accelerator)|17592186648425
+15|70|Laser - Chest|17592186648463
+45|45|Deluxe Pedicure|17592186648496
+15|132|Laser - 1/2 Back - 3 Sessions|17592186648515
+15|41|Laser - Lip - 3 Sessions|17592186648504
+15|20|Eyebrow Tinting|17592186648483
+45|99|Face Lift (Half Face)|17592186648451
+15|29|Spray Tanning - Half Body|17592186648498
+15|149|Laser - 1/2 Arms - 3 Sessions|17592186648519
+15|55|Laser - 1/2 Back|17592186648466
+30|110|Laser - 1/2 Legs|17592186648468
+15|55|Laser - Stomach|17592186648464
+30|35|Pedicure|17592186648495
+15|17|Laser - Chin|17592186648454
+30|94|Laser - Full Face - 3 Sessions|17592186648506
+60|85|Gel Color Manicure + Pedicure|17592186648489
+45|99|Pigmentation Reduction / Rejuvenation (Face-3/4)|17592186648446
+60|250|Derma Rolling - Skin Inject (Decolletage)|17592186648440
+15|168|Laser - Chest - 3 Sessions|17592186648512
+15|70|Laser - Snail Trail - 3 Sessions|17592186648520
+30|85|Intensive Collagen Repair Treatment (Ageless Peel)|17592186648426
+15|20|Laser - Underarms - 3 Sessions|17592186648508
+15|45|Lower Legs Waxing|17592186648480
+30|20|Manicure (Shape + Paint)|17592186648491
+45|89|Pigmentation Reduction / Rejuvenation (Face-1/2)|17592186648447
+45|99|Face Lift (Neck)|17592186648452
+15|132|Laser - Stomach - 3 Sessions|17592186648513
+30|216|Laser - Full Back - 3 Sessions|17592186648514
+60|250|Derma Rolling - Skin Inject (Neck)|17592186648442
+15|70|Laser - Sides of Face - 3 Sessions|17592186648505
+15|30|Bikini Waxing|17592186648478
+30|15|Gel Color Removal & Care|17592186648490
+45|69|Pigmentation Reduction / Rejuvenation (Face-1/4)|17592186648448
+60|255|Re-invent, Refresh and Renew Pack|17592186648500
+30|52|Micro Express (20 mins)|17592186648436
+30|90|Laser - Full Arms|17592186648469
+60|89|Deluxe Harmonizing Facial|17592186648429
+60|350|Derma Rolling - Skin Inject (Face + Neck + Decolletage)|17592186648444
+15|39|Laser - Female Bikini|17592186648460
+75|104|Deluxe Rejuvenating Facial (1 hour) + Microdermabrasion (10 mins)|17592186648434
+30|50|Gel Color Pedicure|17592186648487
+15|29|Laser - Sides of Face|17592186648456
+45|29|Pigmentation Reduction / Rejuvenation (Nose)|17592186648449
+15|49|Thighs Waxing|17592186648482
+30|25|Pedicure (Shape + Paint)|17592186648494
+15|53|Laser - Neck (Front or Back) - 3 Sessions|17592186648507
+60|350|Derma Rolling - Skin Inject (Stomach)|17592186648443
+30|90|Laser - Full Back|17592186648465
+45|125|Pigmentation Reduction / Rejuvenation (Face-Full)|17592186648445
+45|169|Laser - Full Legs|17592186648467
+15|15|Sides of Face Waxing|17592186648475
+30|264|Laser - 1/2 Legs - 3 Sessions|17592186648517
+30|25|Manicure|17592186648492
+15|29|Laser - Snail Trail|17592186648471
+15|22|Laser - Neck (Front or Back)|17592186648458
+75|104|Deluxe Anti-Oxidant Facial (1 hour) + Microdermabrasion (10 mins)|17592186648432
+30|30|Eyelash Tinting|17592186648484
